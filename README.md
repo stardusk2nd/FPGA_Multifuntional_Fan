@@ -1,4 +1,4 @@
-# FPGA_Multifuntional_Fan
+# Multifuntional Fan project
 
 [Report link](https://1drv.ms/p/s!AoW7lidA8JGFkzUY1FxPNVIVulH4?e=DTqsyX)
 
